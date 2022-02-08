@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/piccalil-li/cube-css-dashboard/issues"
   },
-  "homepage": "https://github.com/piccalil-li/cube-css-dashboard#readme"
+  "homepage": "https://github.com/piccalil-li/cube-css-dashboard#readme",
+  "dependencies": {
+    "gorko": "^0.9.1"
+  }
 }
